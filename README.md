@@ -7,10 +7,10 @@
     </head>
     <body>
         <!--Header section starts-->
-        <header>
-                <h1><span>BS<br>Aspiring software developor<span></h1>
+        
+                <h1><span>BS<br>Aspiring software developer<span></h1>
                 
-        </header>
+        
         <!--Header section ends-->
 
         <!--Navigation section start-->
@@ -65,7 +65,7 @@
                     <li>German: Basic Level</li>
                 </ul>
                 </section>
-        </article
+        </article>
         <!--My Skills section end-->
 
         <!--Education section starts-->
@@ -162,7 +162,7 @@
                 <a href="#">
                     <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
                     </a>
-                    <a href="https://www.sololearn.com/Profile/17721102" target="_blank">
+                    <a href="https://www.sololearn.com/Profile/17721102" /> target="_blank">
                         <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
   <a href="#" target="_blank">
                         <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png"/>                      

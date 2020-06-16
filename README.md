@@ -2,6 +2,43 @@
 <!DOCTYPE html>
 <html>
     <head>
+<style>
+body{
+    background-color: rgb(70, 68, 68);
+    font-family: Calibri,' Sans', 'Sans MT', 'Trebuchet MS', sans-serif;
+    color: Gold;
+    padding: 10px;
+    margin: 0px;
+
+}
+header {
+    background-color: rgb(12, 133, 106);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#cv_pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+article{
+    background-color: rgb(12, 133, 106);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 600px;
+
+}
+aside{
+    text-align: right;
+}
+footer{
+    background-color: rgb(12, 133, 106);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+} </style>
         <link rel="stylesheet" href="Online CV(CSS).css">
         <title>BS</title>
     </head>
@@ -180,3 +217,4 @@
         <!--Contact section ends-->
     </body>
 </html>
+

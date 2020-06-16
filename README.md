@@ -1,5 +1,5 @@
 # online-CV
-<!DOCTYPE html>
+
 <html>
     <head>
         <link rel="stylesheet" href="Online CV(CSS).css">
@@ -8,7 +8,7 @@
     <body>
         <!--Header section starts-->
         <header>
-                <h1><span>BS<br>Aspiring software developer</span></h1>
+                <h1><span>BS<br>Aspiring software developor<span></h1>
                 
         </header>
         <!--Header section ends-->
@@ -65,7 +65,7 @@
                     <li>German: Basic Level</li>
                 </ul>
                 </section>
-        </article>
+        </article
         <!--My Skills section end-->
 
         <!--Education section starts-->

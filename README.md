@@ -8,7 +8,7 @@
     <body>
         <!--Header section starts-->
         
-                <h1><span>BS<br>Aspiring software developer<span></h1>
+                <h1><span>BS</br>Aspiring software developer</span></h1>
                 
         
         <!--Header section ends-->
@@ -65,7 +65,7 @@
                     <li>German: Basic Level</li>
                 </ul>
                 </section>
-        </article>
+        
         <!--My Skills section end-->
 
         <!--Education section starts-->
